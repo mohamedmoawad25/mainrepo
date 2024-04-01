@@ -1,0 +1,3 @@
+selenium = java
+testng
+allure-testng
